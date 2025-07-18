@@ -1,0 +1,31 @@
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #111;
+}
+.title {
+  font-size: 3rem;
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+.actionContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.headerBtn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 3px;
+  background-color: rgb(22, 122, 244);
+  color: white;
+  padding: 5px 10px;
+  border: 0;
+  border-radius: 10px;
+  cursor: pointer;
+}

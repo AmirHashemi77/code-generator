@@ -1,0 +1,14 @@
+.container {
+  max-width: 75rem;
+  width: 100%;
+  padding: 10px;
+  margin: 10px auto;
+  background-color: #111;
+  border-radius: 10px;
+}
+.gridContainer {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  grid-template-columns: repeat(1, 1fr);
+}
