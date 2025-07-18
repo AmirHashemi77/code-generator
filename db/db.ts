@@ -1,4 +1,6 @@
-export const db = {
+import type { FrontendApp } from "./db.type";
+
+export const db: FrontendApp = {
   apiVersion: "v1",
   kind: "FrontendApp",
   metadata: {

@@ -1,9 +1,9 @@
 .container {
   max-width: 75rem;
   width: 100%;
-  padding: 10px;
+  padding: 20px;
   margin: 10px auto;
-  background-color: #111;
+  background-color: #222;
   border-radius: 10px;
 }
 .gridContainer {
