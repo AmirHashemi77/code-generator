@@ -1,0 +1,12 @@
+[
+    {
+        "name": "base.form",
+        "path": "components/BaseForm",
+        "promps": [
+            {
+                "propsName": "",
+                "type": "string"
+            }
+        ]
+    }
+]

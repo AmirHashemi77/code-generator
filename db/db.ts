@@ -34,6 +34,7 @@ export const db: FrontendApp = {
           path: "/api/products/:id",
         },
       },
+
       categories: {
         getAll: {
           method: "GET",
@@ -57,6 +58,7 @@ export const db: FrontendApp = {
       {
         name: "ProductListPage",
         path: "/products",
+
         header: {
           component: "Header",
           properties: {
